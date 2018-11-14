@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-healthcare-analytics-projects?utm_source=github&utm_medium=repository&utm_campaign="><img src="" alt="" height="256px" align="right"></a>
 
-This is the code repository for[](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-healthcare-analytics-projects?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
+This is the code repository for[Machine Learning for Healthcare Analytics Projects](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-healthcare-analytics-projects?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
 
 **Build smart AI applications using neural network methodologies across the healthcare vertical market**
 
@@ -46,7 +46,7 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https:/?/?www.?packtpub.?com/?sites/?default/?files/downloads/?9781789536591_?ColorImages.?pdf).
 
 ### Related products
-* Healthcare Analytics Made Simple  [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/healthcare-analytics-made-simple?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1-787-28670-3)
+* Healthcare Analytics Made Simple  [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/healthcare-analytics-made-simple?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1787286703)
 
 
 ## Get to Know the Author
