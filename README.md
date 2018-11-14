@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-healthcare-analytics-projects?utm_source=github&utm_medium=repository&utm_campaign="><img src="" alt="" height="256px" align="right"></a>
 
-This is the code repository for[Machine Learning for Healthcare Analytics Projects](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-healthcare-analytics-projects?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
+This is the code repository for [ Machine Learning for Healthcare Analytics Projects](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-healthcare-analytics-projects?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
 
 **Build smart AI applications using neural network methodologies across the healthcare vertical market**
 
