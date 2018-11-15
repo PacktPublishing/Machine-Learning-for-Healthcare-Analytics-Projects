@@ -4,7 +4,7 @@
 
 This is the code repository for [Machine Learning for Healthcare Analytics Projects](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-healthcare-analytics-projects?utm_source=github&utm_medium=repository&utm_campaign=9781789536591), published by Packt.
 
-*Build smart AI applications using neural network methodologies across the healthcare vertical market*
+**Build smart AI applications using neural network methodologies across the healthcare vertical market**
 
 ## What is this book about?
 
